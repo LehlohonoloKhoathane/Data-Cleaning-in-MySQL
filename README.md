@@ -9,4 +9,4 @@ Generate insights for business decision-making
 
 # Tools & Technologies
 MySQL
-SQL (Joins, Aggregations, Window Functions, CTEs)
+,SQL (Joins, Aggregations, Window Functions, CTEs)
