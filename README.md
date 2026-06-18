@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 This project demonstrates how to clean and preprocess raw data directly within a MySQL database using SQL queries. Instead of relying on external tools, the cleaning logic is implemented at the database layer—making it efficient, scalable, and closer to real-world ETL pipelines.
 The dataset contains common data quality issues such as missing values, duplicates, inconsistent formats, and invalid entries.
 
