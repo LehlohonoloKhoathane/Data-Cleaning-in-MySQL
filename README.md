@@ -1,12 +1,12 @@
 # Project Overview
-This project demonstrates how to clean and preprocess raw data directly within a MySQL database using SQL queries. Instead of relying on external tools, the cleaning logic is implemented at the database layer, making it efficient, scalable, and closer to real-world ETL pipelines.
-The dataset contains common data quality issues such as missing values, duplicates, inconsistent formats, and invalid entries.
+This project demonstrates a complete data workflow within MySQL, starting from raw, unstructured data to cleaned, analysis-ready datasets, followed by exploratory data analysis (EDA) to extract meaningful insights. The goal is to simulate a real-world data analytics pipeline where SQL is used not only for querying but also for data transformation, validation, and insight generation.
 
 # Objectives
-Clean raw data using pure SQL (MySQL)
-Ensure data consistency and integrity
-Prepare structured datasets for analytics, BI dashboards, or machine learning
+Clean and preprocess raw data using MySQL
+Perform data quality checks and transformations
+Conduct Exploratory Data Analysis (EDA) using SQL queries
+Generate insights for business decision-making
 
 # Tools & Technologies
 MySQL
-SQL (Joins, CTEs, Window Functions)
+SQL (Joins, Aggregations, Window Functions, CTEs)
